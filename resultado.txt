@@ -1,0 +1,4 @@
+Tu nombre es: fernando
+Tu Edad es: 18
+Tu calificacion es: 98.0
+Tu resultado es: APROBADO
