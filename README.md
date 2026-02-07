@@ -49,6 +49,40 @@ Lectura y escritura de información en archivos de texto plano (`.txt`).
 * **`RegistrodeEstudiante.java`**: Sistema de registro que guarda datos del alumno en un archivo y permite su lectura posterior.
 * **`EscribirYLeerUnArchivo.java`**: Uso de `PrintWriter` y `Scanner` para I/O de archivos.
 * **`EscribirYLeerUnArchivoBuffer.java`**: Optimización de lectura/escritura usando `BufferedWriter` y `BufferedReader`.
+* 
+
+
+## 🚀 Evolución y Nuevos Temas (Unidad 3)
+
+En esta etapa del curso, he profundizado en estructuras de datos más complejas y herramientas de validación profesional:
+
+### 📊 1. Arreglos Avanzados y Matrices (2D)
+Uso intensivo de arreglos unidimensionales y multidimensionales para resolver problemas de lógica y organización de datos.
+* **`ArregloEnMarcha.java`**: Un sistema integral que implementa múltiples algoritmos de ordenamiento (**Bubble, Selection y Quick Sort**) y búsquedas (lineal y binaria).
+* **`Sudoku.java`**: Implementación de lógica de juego mediante matrices de 9x9, validación de cuadrantes y persistencia de resultados.
+* **`TablaMultiplicarMatriz.java`**: Generación dinámica de tablas mediante estructuras bidimensionales.
+* **`FunciondesPredefinidasArrays.java`**: Uso de la clase `java.util.Arrays` para optimizar operaciones comunes como `sort`, `binarySearch` y `stream`.
+
+### 🔍 2. Expresiones Regulares (Regex) y Validación
+Implementación de patrones complejos para garantizar la integridad de la entrada del usuario.
+* **`TextoInteligente.java`**: Uso de `Pattern` y `Matcher` para validar formatos de teléfonos, extraer fechas de textos y estandarizar correos electrónicos.
+* **`ValidadorContrasena.java`**: Lógica robusta para verificar requisitos de seguridad (mayúsculas, minúsculas, dígitos y longitud mínima).
+* **`ValidadorCorreo.java`**: Sistema de validación paso a paso para la estructura de dominios y símbolos en correos.
+
+### 📝 3. Análisis de Texto y Procesamiento
+* **`ExploradorPalabras.java`**: Herramienta de análisis que lee archivos, cuenta ocurrencias de palabras específicas y determina estadísticas como la palabra más larga o corta.
+
+---
+
+## 📚 Repaso de Temas Previos
+
+### Fundamentos y Control de Flujo
+* **`ControlTotal.java`** y **`MenuRecursivo.java`**: Estructuras de menús profesionales y navegación mediante recursividad.
+* **`TorneoFutbol.java`**: Lógica de negocio aplicada con validación de consistencia y cálculos estadísticos.
+
+### Persistencia y Archivos (I/O)
+* **`EscribirYLeerUnArchivoBuffer.java`**: Gestión eficiente de archivos de texto utilizando `BufferedReader` y `BufferedWriter`.
+* **`RegistrodeEstudiante.java`**: Ejemplo completo de escritura y lectura de datos estructurados en disco.
 
 ## 🛠️ Tecnologías
 
